@@ -23,6 +23,6 @@
 
 # 🌏 Github Stat's
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Soullwashere&show_icons=true&theme=dark&locale=en" alt="purpleorpurple"/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=purpleorpurple&show_icons=true&theme=dark&locale=en" alt="purpleorpurple"/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=purpleorpurple&theme=dark" alt="purpleorpurple"/>
 <div align="right"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31f657sjt2e35547pt367g6ufq74&cover_image=true&theme=default&show_offline=false&background_color=bb00ff&bar_color_cover=false&bar_color=ff0000"/></div>   
