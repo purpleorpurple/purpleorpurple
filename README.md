@@ -1,4 +1,3 @@
-# 🪐 I'M Soull 
 
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+Hacking+is+not+a+crime+it+is+a+mirror+that+hits+your+flaws+,+in+your+face" alt="purpleorpurple" />
 
