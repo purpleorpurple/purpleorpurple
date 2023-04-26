@@ -17,7 +17,7 @@
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 
-**• Discord Profile**
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/632208307360235520)](https://discord.com/users/632208307360235520)
 
