@@ -27,7 +27,7 @@
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=purpleorpurple&theme=dark" alt="purpleorpurple"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=purpleorpurple&theme=dark" alt="purpleorpurple"/>
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffa700&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Spotify" alt="Typing SVG" /></h1>
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31f657sjt2e35547pt367g6ufq74&cover_image=true&theme=default&show_offline=false&background_color=bb00ff&bar_color_cover=false&bar_color=ff0000"/></div> 
