@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+Herkese+selam+ben+purple+profilime+hoş+geldin+." alt="purpleorpurple" />
 
-**👁‍🗨 Profile Views**
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 
 ![counter](https://profile-counter.glitch.me/{purpleorpurple}/count.svg)
 
@@ -13,7 +15,7 @@
 ⭐ I'm a soull trying to learn languages like **NodeJs - JavaScript - Python - TypeScript** for a long time I'm studying electrical engineering that's it for now
 
 
-**• Discord Profile**
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/632208307360235520)](https://discord.com/users/632208307360235520)
 
