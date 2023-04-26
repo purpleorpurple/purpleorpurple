@@ -12,7 +12,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/632208307360235520"><img alt="JavaScript" align="center" src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" data-canonical-src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="height="150" width="150";"></a>
 </div> 
 
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/632208307360235520)](https://discord.com/users/632208307360235520)
 
