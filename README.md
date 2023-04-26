@@ -27,7 +27,6 @@
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=purpleorpurple&show_icons=true&theme=dark&locale=en" alt="purpleorpurple"/>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=purpleorpurple&theme=dark" alt="purpleorpurple"/>
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffa700&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Spotify" alt="Typing SVG" /></h1>
