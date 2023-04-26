@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+Herkese+is+selam+ben+purple+yakında+profilime+hoş+geldin+." alt="purpleorpurple" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+Herkese+selam+ben+purple+yakında+profilime+hoş+geldin+." alt="purpleorpurple" />
 
 **👁‍🗨 Profile Views**
 
