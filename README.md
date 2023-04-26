@@ -1,15 +1,31 @@
-<h1 align="center"> </Mor>  
- <img href="https://discord.com/users/632208307360235520" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=🌻+To+Reach+Me+;Discord+Mor%232018"alt="purpleorpurple" />
-</h1>
+# 🪐 I'M Soull 
+
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+Hacking+is+not+a+crime+it+is+a+mirror+that+hits+your+flaws+,+in+your+face" alt="purpleorpurple" />
+
+**👁‍🗨 Profile Views**
 
 ![counter](https://profile-counter.glitch.me/{purpleorpurple}/count.svg)
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
-<p align="center">
- <a align="center" href="https://discord.com/users/632208307360235520" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/purpleorpurple" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a align="center" href="https://open.spotify.com/user/31gnhihgjzynfzy22cohrf4dxxzm?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/serkantasy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br> </br>
+<h3 align="left">🐦 Connect with me:</h3>
+<div align="left">
+<a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/632208307360235520"><img alt="JavaScript" align="center" src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" data-canonical-src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="height="150" width="150";"></a>
+</div> 
+
+# 💥 About me
+⭐ I'm a Mor trying to learn languages like **NodeJs - JavaScript - Python** for a long time I'm studying electrical engineering that's it for now
+
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+
+**• Discord Profile**
+
+[![Discord Profilim](https://lanyard.cnrad.dev/api/632208307360235520)](https://discord.com/users/632208307360235520)
 
 
+## 📖 Langs
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+# 🌏 Github Stat's
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=purpleorpurple&show_icons=true&theme=dark&locale=en" alt="purpleorpurple"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=purpleorpurple&theme=dark" alt="purpleorpurple"/>
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31f657sjt2e35547pt367g6ufq74&cover_image=true&theme=default&show_offline=false&background_color=bb00ff&bar_color_cover=false&bar_color=ff0000"/></div>  
