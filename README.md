@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Herkese+selam+ben+purple+profilime+hoş+geldin+." alt="purpleorpurple" />
-
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 
 ![counter](https://profile-counter.glitch.me/{purpleorpurple}/count.svg)
