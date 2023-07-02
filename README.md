@@ -5,7 +5,7 @@
  
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Connect+With+Me" alt="Typing SVG" /></h1>
 <div align="left">
-<a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/1095707132017520660"><img alt="JavaScript" align="center" src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" data-canonical-src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="height="150" width="150";"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/1098213440448892928"><img alt="JavaScript" align="center" src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" data-canonical-src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="height="150" width="150";"></a>
 </div> 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a600ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
@@ -14,7 +14,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
-[![Discord Profilim](https://lanyard.cnrad.dev/api/1095707132017520660)](https://discord.com/users/1095707132017520660)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1098213440448892928)](https://discord.com/users/1098213440448892928)
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00ff88&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
